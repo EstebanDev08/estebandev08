@@ -12,7 +12,7 @@ Passionate Web Developer with experience building scalable, efficient, and well-
 
 ### Backend Developer | Node.js | TypeScript | AWS
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EstebanDev08&theme=dark&border_radius=7&hide_border=true&card_width=467)](#)
+[![GitHub Streak](https://streak-stats.demolab.com?user=estebandev08&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=estebandev08&hide=Jupyter%20Notebook&hide_border=true&layout=compact&theme=dark)
 
 ## Technologies I Use
