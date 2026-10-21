@@ -1,41 +1,44 @@
-# Hola, I'm Esteban Solarte 👋
+# Hi, I'm Esteban Solarte 👋
 
-## About Me
+### Backend Developer · Node.js · TypeScript · Colombia 🇨🇴
 
-Passionate Web Developer with experience building scalable, efficient, and well-structured systems.
+I'm a backend developer with 3 years at a software consultancy (iProcess). I build and maintain production systems for clients: electronic invoicing with the Colombian tax authority (DIAN), waste-management and CRM platforms, and a document-generation microservice used by five projects.
 
-🛠️ Focussed on BackEnd Development.</br>
-🚀 Always looking to grow as a developer and as a human being.</br>
-🧠 I love solving complex problems and delivering real-world value through clean and maintainable code.</br>
- 🌍 Strong communicator, comfortable working in remote teams, and always ready to collaborate on challenging technical projects.</br>
-💡 Currently exploring DevOps, cloud-native architectures, and improving my English to grow internationally.</br>
+## What I work on
 
-### Backend Developer | Node.js | TypeScript | AWS
+- 🏗️ **Architecture:** designed the hexagonal (domain / app / infrastructure) backend of a CRM with TypeScript, Express, Drizzle and MySQL.
+- 🧾 **E-invoicing:** DIAN invoicing flows: bulk, per-client and inbound invoices, debit and credit notes, withholdings.
+- 📄 **Documents:** co-built a microservice that generates PDF, XLSX and ZIP files (Puppeteer, Redis cache, S3).
+- 🤖 **AI-assisted development:** created shared rules and hooks for Claude Code so the team keeps quality high when coding with AI.
+- 🚀 **Delivery:** automated versioning and releases with GitHub Actions across several repositories.
+
+> Client work is private, so my best code isn't public here. I'm happy to walk through it in an interview.
+
+## Technologies
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,nestjs,mysql,postgres,prisma,redis,docker,aws,githubactions,react,python,git,linux&perline=8" alt="Technologies: Node.js, TypeScript, JavaScript, Express, NestJS, MySQL, PostgreSQL, Prisma, Redis, Docker, AWS, GitHub Actions, React, Python, Git, Linux" />
+
+## Personal projects
+
+Private, in daily use (more details in my [portfolio](https://estebandev-portfolio.netlify.app)):
+
+- **Twitch Clip Finder** (Python, Claude, ffmpeg, Remotion): from a Twitch VOD to vertical clips ready to publish.
+- **Computeck** (NestJS, Drizzle, MySQL, React): inventory, sales and accounting for a computer store.
+- **Picoteo** (React, Supabase): orders, kitchen board and cash register for a food business.
+
+Public:
+
+- [Signal Watcher](https://github.com/EstebanDev08/Signal-Watcher) ([demo](https://prueba-tecnica-kiggu-web.vercel.app)): security-event analysis with AI, built with Clean Architecture (Node.js, TypeScript, Next.js, PostgreSQL).
+- [Task Tracker CLI](https://github.com/EstebanDev08/task-tracker-cli): task manager built with Clean Hexagonal Architecture.
+
+## Currently
+
+Improving my English and going deeper into DevOps and cloud-native architectures.
 
 [![GitHub Streak](https://github-readme-streak-stats-olive-pi.vercel.app?user=estebandev08&theme=dark&hide_border=true&exclude_days=Sun%2CSat&card_width=467&card_height=140)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=estebandev08&hide=Jupyter%20Notebook&hide_border=true&layout=compact&theme=dark)
 
-## Technologies I Use
+## Let's connect
 
-<div align="left">
-  <div>
-    <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,nestjs,postgres,mysql,prisma,docker" height="400" />
-  </div>
-  <div>
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" height="400" />
-  </div>
-  <div>
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,aws,vscode,linux" height="400" />
-  </div>
-</div>
-
-## Featured Projects
-
-- 🛠️ [Task Tracker CLI](https://github.com/EstebanDev08/task-tracker-cli): Task manager built with Clean Hexagonal Architecture.
-- 🛒 [API REST Tienda Online](https://github.com/EstebanDev08/api-rest-node-postgre): E-commerce backend with authentication, validation, and secure architecture.
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban%20Solarte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estebandev/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-estebandev--portfolio-E8B04F?style=for-the-badge&logo=netlify&logoColor=white)](https://estebandev-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban%20Solarte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estebandev/)
 [![Email](https://img.shields.io/badge/estebansolarte86@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estebansolarte86@gmail.com)
-
