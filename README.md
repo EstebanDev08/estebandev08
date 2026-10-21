@@ -35,8 +35,6 @@ Public:
 
 Improving my English and going deeper into DevOps and cloud-native architectures.
 
-[![GitHub Streak](https://github-readme-streak-stats-olive-pi.vercel.app?user=estebandev08&theme=dark&hide_border=true&exclude_days=Sun%2CSat&card_width=467&card_height=140)](https://git.io/streak-stats)
-
 ## Let's connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-estebandev--portfolio-E8B04F?style=for-the-badge&logo=netlify&logoColor=white)](https://estebandev-portfolio.netlify.app)
